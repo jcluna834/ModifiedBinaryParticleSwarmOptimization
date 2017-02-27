@@ -1,0 +1,9 @@
+C:\Users\JulioCésar\Desktop\MetaHeuristicasMBPSO\Mochila\Mochila\bin\Debug\Mochila.exe.config
+C:\Users\JulioCésar\Desktop\MetaHeuristicasMBPSO\Mochila\Mochila\bin\Debug\Mochila.exe
+C:\Users\JulioCésar\Desktop\MetaHeuristicasMBPSO\Mochila\Mochila\bin\Debug\Mochila.pdb
+C:\Users\JulioCésar\Desktop\MetaHeuristicasMBPSO\Mochila\Mochila\obj\Debug\Mochila.csprojResolveAssemblyReference.cache
+C:\Users\JulioCésar\Desktop\MetaHeuristicasMBPSO\Mochila\Mochila\obj\Debug\Mochila.exe
+C:\Users\JulioCésar\Desktop\MetaHeuristicasMBPSO\Mochila\Mochila\obj\Debug\Mochila.pdb
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Fundamentos de meta-heurísticas\Segundo corte Meta-heurísticas\Mochila\Mochila\bin\Debug\Mochila.exe.config
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Fundamentos de meta-heurísticas\Segundo corte Meta-heurísticas\Mochila\Mochila\obj\Debug\Mochila.exe
+C:\Users\JulioCésar\Desktop\Julio César\Universidad\Fundamentos de meta-heurísticas\Segundo corte Meta-heurísticas\Mochila\Mochila\obj\Debug\Mochila.pdb
